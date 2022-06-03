@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Wizardmon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AC3978572C2450BA200CB7C496DB9EC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6476E165F4A449C7BD54265EA8C8036E }}
           package: .
